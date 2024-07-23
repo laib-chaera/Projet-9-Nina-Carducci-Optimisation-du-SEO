@@ -59,7 +59,7 @@ Mon adresse : 68 avenue Alsace-Lorraine, 33200 Bordeaux.
 Mon numéro de téléphone : 05 56 67 78 89.
 Je réponds au téléphone du lundi au vendredi de 10 h à 19 h.
 
-Enfin, vous trouverez le code de mon site sur ce repo GitHub https://github.com/nina-carducci/nina-carducci.github.io .
+Enfin, vous trouverez le code de mon site sur ce repo GitHub https://github.com/laib-chaera/Projet-9-Nina-Carducci-Optimisation-du-SEO .
 Vous pouvez le cloner et modifier le code sur un nouveau repo à me partager quand il sera prêt.
 
 Merci beaucoup et bon développement,
